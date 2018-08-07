@@ -1,0 +1,19 @@
+{
+  "name": "feicat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayj517/feiCat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayj517/feiCat/issues"
+  },
+  "homepage": "https://github.com/ayj517/feiCat#readme"
+}
